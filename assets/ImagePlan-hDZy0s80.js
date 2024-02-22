@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as r,a as s}from"./index-Wy4AIv4U.js";const i={},o=["src"];function c(a,e){return n(),r("div",{onClick:e[0]||(e[0]=l=>a.$router.push("/barrioTriana"))},[s("img",{src:"/assets/img/triana/planVisite.png",alt:"image",style:{"max-width":"150px","max-height":"200px",margin:"10px","z-index":"10"}},null,8,o)])}const p=t(i,[["render",c]]);export{p as default};
